@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import pyautogui
 import time
-
+#YERS
 # Mediapipe setups
 mp_face_mesh = mp.solutions.face_mesh
 mp_hands = mp.solutions.hands
