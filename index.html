@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nose Mouse Control</title>
+</head>
+<body>
+    <h1>Move your cursor with your nose 😆</h1>
+    <video id="webcam" autoplay playsinline width="640" height="480"></video>
+
+    <script>
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(stream => {
+                document.getElementById('webcam').srcObject = stream;
+            })
+            .catch(err => {
+                console.error("Error accessing webcam:", err);
+            });
+    </script>
+</body>
+</html>
