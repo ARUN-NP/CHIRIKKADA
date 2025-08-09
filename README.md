@@ -41,15 +41,15 @@ For Hardware:
 
 ### Implementation
 For Software: - [Languages used: Python]
-- [Frameworks used: None (lightweight project)]
-- [Libraries used: OpenCV, Mediapipe, PyAutoGUI]
-- [Tools used: Visual Studio Code, Python interpreter, Webcam]
--[Run as Administrator in PowerShell]
+  -Frameworks used: None (lightweight project)
+  -Libraries used: OpenCV, Mediapipe, PyAutoGUI
+  -Tools used: Visual Studio Code, Python interpreter, Webcam
+  -Run as Administrator in PowerShell
 # Installation
-[pip install -r requirements.txt]
+pip install -r requirements.txt
 
 # Run
-[python app.py]
+python app.py
 
 ### Project Documentation
 For Software:
@@ -71,10 +71,15 @@ text](image-4.png)]
 
 ### Project Demo
 # Video
-[https://drive.google.com/drive/folders/1AhLWhZjAbApoSdM9RRwmQVYw8nbiipwg]
+https://drive.google.com/drive/folders/1AhLWhZjAbApoSdM9RRwmQVYw8nbiipwg]
 *We control the cursor entirely using our nose. Clicking is performed by smiling.
 Initially, we drag a folder and place it somewhere else on the desktop — the “click and hold” action is done using the index finger.
 Next, we navigate to a browser using our nose, perform a Google search, and select an image. We right-click on the image using an open-palm gesture with the right hand, then save it to our desktop. Finally, we close the browser again using only nose control. *
+
+## Block Diagram
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc6426bd-a8f5-4b2b-8e5b-9b1320c08140" />
+
+
 
 
 ## Team Contributions
