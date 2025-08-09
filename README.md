@@ -55,11 +55,12 @@ For Software: - [Languages used: Python]
 For Software:
 
 # Screenshots (Add at least 3)
+[provided along with the drive link]
 ![alt text](image-1.png)
 *dragging a folder using nose and index finger*
 
 ![![alt text](image-3.png)]
-*left clicking on thje image by smiling*
+*selecting the image by smiling*
 
 ![![alt text](image-4.png)]
 *right-clicking to save the image using right-open-palm*
