@@ -56,13 +56,16 @@ For Software:
 
 # Screenshots (Add at least 3)
 [provided along with the drive link]
-![alt text](image-1.png)
+![alt t![WhatsApp Image 2025-08-09 at 06 03 38_5a9077c8](https://github.com/user-attachments/assets/b12b6b41-a04e-4051-8143-c0cd61797a29)
+ext](image-1.png)
 *dragging a folder using nose and index finger*
 
-![![alt text](image-3.png)]
+![![alt t![Uploading WhatsApp Image 2025-08-09 at 06.03.38_52feca4c.jpg…]()
+ext](image-3.png)]
 *selecting the image by smiling*
 
-![![alt text](image-4.png)]
+![![alt ![Uploading WhatsApp Image 2025-08-09 at 06.03.39_bb0a9026.jpg…]()
+text](image-4.png)]
 *right-clicking to save the image using right-open-palm*
 
 
