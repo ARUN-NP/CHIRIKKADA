@@ -72,7 +72,9 @@ text](image-4.png)]
 ### Project Demo
 # Video
 [https://drive.google.com/drive/folders/1AhLWhZjAbApoSdM9RRwmQVYw8nbiipwg]
-*We controll the cursor throughout using our nose, clicking is done by smiling. iniytially we drag a folder and place it somewhere else in the desktop itself, the click and hold is done using the index finger. then we head to a browser using our nose, perform a google search and select and image. we right click on the image using right-hand open palm and save it to our desktop. we close the browser again with our nose.  *
+*We control the cursor entirely using our nose. Clicking is performed by smiling.
+Initially, we drag a folder and place it somewhere else on the desktop — the “click and hold” action is done using the index finger.
+Next, we navigate to a browser using our nose, perform a Google search, and select an image. We right-click on the image using an open-palm gesture with the right hand, then save it to our desktop. Finally, we close the browser again using only nose control. *
 
 
 ## Team Contributions
