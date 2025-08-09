@@ -1,96 +1,79 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [CHIRIKKADAAA!!] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [404NOTFOUND]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Arun NP] - [Muthoot Institute of Technology and Science]
+- Member 2: [Albin Soby] - [Muthoot Institute of Technology and Science]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A wildly unconventional way to control your computer mouse using just your nose — because why use your hands when your face can do the job? Move your cursor by wiggling your nose, smile to click, and flash your right hand palm for right-clicks. Who needs a mouse when you’ve got this?]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Why bother with actual mice or touchpads when noses and silly hand gestures exist? Traditional mouse control is just too boring, and sometimes your hands get tired from all that scrolling and clicking. Plus, have you ever tried to control a cursor with your nose? Neither have we, until now!]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We harnessed the magical powers of Mediapipe and Python to transform your nose into a super precise cursor controller. Want to click? Smile! Need a right click? Show your palm! Want to drag stuff around? Just raise your index finger. It’s quirky, weird, and absolutely useless — but hey, it works!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used: Python]
+- [Frameworks used: None (lightweight project)]
+- [Libraries used: OpenCV, Mediapipe, PyAutoGUI]
+- [Tools used: Visual Studio Code, Python interpreter, Webcam]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Main Components:
+  - USB Webcam (720p or higher resolution recommended)]
+- [Specifications:
+  - Compatible with USB 2.0 or higher
+  - Minimum frame rate of 30 FPS for smooth tracking]
+- [Tools Required:
+  - Computer or laptop with available USB port
+  - Well-lit environment for optimal camera performance]
 
 ### Implementation
-For Software:
+For Software: - [Languages used: Python]
+- [Frameworks used: None (lightweight project)]
+- [Libraries used: OpenCV, Mediapipe, PyAutoGUI]
+- [Tools used: Visual Studio Code, Python interpreter, Webcam]
+-[Run as Administrator in PowerShell]
 # Installation
-[commands]
+[pip install -r requirements.txt]
 
 # Run
-[commands]
+[python app.py]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![alt text](image-1.png)
+*dragging a folder using nose and index finger*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![![alt text](image-3.png)]
+*left clicking on thje image by smiling*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![![alt text](image-4.png)]
+*right-clicking to save the image using right-open-palm*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/drive/folders/1AhLWhZjAbApoSdM9RRwmQVYw8nbiipwg]
+*We controll the cursor throughout using our nose, clicking is done by smiling. iniytially we drag a folder and place it somewhere else in the desktop itself, the click and hold is done using the index finger. then we head to a browser using our nose, perform a google search and select and image. we right click on the image using right-hand open palm and save it to our desktop. we close the browser again with our nose.  *
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [ARUN NP]: [cursor movement, pinning cursor to nose]
+- [ALBIN SOBY]: [hand gestures, mouse-clicks]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
