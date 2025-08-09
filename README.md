@@ -58,15 +58,15 @@ For Software:
 [provided along with the drive link]
 ![alt t![WhatsApp Image 2025-08-09 at 06 03 38_5a9077c8](https://github.com/user-attachments/assets/b12b6b41-a04e-4051-8143-c0cd61797a29)
 ext](image-1.png)
-*dragging a folder using nose and index finger*
+*Using nose control for cursor movement and the index finger for “click and hold,” we drag a folder to a new*
 
 ![![alt t![Uploading WhatsApp Image 2025-08-09 at 06.03.38_52feca4c.jpg…]()
 ext](image-3.png)]
-*selecting the image by smiling*
+*We open a browser using only nose control, search for an image on Google, and select it by smiling.*
 
 ![![alt ![Uploading WhatsApp Image 2025-08-09 at 06.03.39_bb0a9026.jpg…]()
 text](image-4.png)]
-*right-clicking to save the image using right-open-palm*
+*We right-click on the image using a right-hand open-palm gesture and save it to the desktop. Finally, we close the browser using nose control.*
 
 
 ### Project Demo
@@ -78,8 +78,8 @@ Next, we navigate to a browser using our nose, perform a Google search, and sele
 
 
 ## Team Contributions
-- [ARUN NP]: [cursor movement, pinning cursor to nose]
-- [ALBIN SOBY]: [hand gestures, mouse-clicks]
+- [ARUN NP]: [Implemented cursor movement and developed the feature for pinning the cursor to nose tracking.]
+- [ALBIN SOBY]: [Designed and integrated hand gesture controls, including mouse clicks and related interactions.]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
